@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>button_icons/BrushSizeDown.png</file>
+        <file>button_icons/BrushSizeUp.png</file>
+        <file>button_icons/CopyFrame.png</file>
+        <file>button_icons/DeleteFrame.png</file>
+        <file>button_icons/Empty.png</file>
+        <file>button_icons/Eraser.png</file>
+        <file>button_icons/EyeDropper.png</file>
+        <file>button_icons/Fill.png</file>
+        <file>button_icons/FipX.png</file>
+        <file>button_icons/FipY.png</file>
+        <file>button_icons/MirrorX.png</file>
+        <file>button_icons/MirrorY.png</file>
+        <file>button_icons/NewFrame.png</file>
+        <file>button_icons/Pencil.png</file>
+        <file>button_icons/StraightLine.png</file>
+        <file>button_icons/SwapFrameLeft.png</file>
+        <file>button_icons/SwapFrameRight.png</file>
+        <file>button_icons/Left.png</file>
+        <file>button_icons/Right.png</file>
+        <file>button_icons/Undo.png</file>
+    </qresource>
+</RCC>
